@@ -74,4 +74,4 @@ The batch file will execute the command using the Steam Application ID you enter
 
 ---
 
-**Made by jveu**
+**Originally created by jveu. I did not create the original script; I have only updated and improved it to make it easier to use.**
